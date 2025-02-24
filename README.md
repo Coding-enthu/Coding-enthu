@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/main/Assets/github-header-image.png)
+![Header image]([https://raw.githubusercontent.com/](https://github.com/Coding-enthu/Coding-enthu/blob/main/Assets/github-header-image.png)
 
 
 **Coding-enthu/Coding-enthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

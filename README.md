@@ -13,4 +13,4 @@ My main focus is to become an AI/ML engineer. Sadly that's on hold.
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 # Skills
-![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,mysql,mongodb,java,spring,vscode,numpy,pandas)
+![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,flask,mysql,mongodb,java,spring,vscode,numpy,pandas)

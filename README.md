@@ -11,6 +11,6 @@ My main focus is to become an AI/ML engineer. Sadly that's on hold.
 - 😀 I like to play video games and read books in my free time.
 - ⚡ Fun fact: My first line of code was not "Hello World!".
 
-<a href="mailto:sayakthegreat2004@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+Email me at  <a href="mailto:sayakthegreat2004@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,flask,mysql,mongodb,java,spring,vscode,numpy,pandas)
